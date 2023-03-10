@@ -8,7 +8,6 @@ function root() {
     <div>
       <Header />
       <Outlet />
-
     </div>
   );
 }
